@@ -1,0 +1,4 @@
+tiktoken
+jupyter
+#ipykernel
+

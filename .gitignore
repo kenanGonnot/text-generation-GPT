@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+venv/
+.idea/
+data/
+saved_model/
